@@ -1,20 +1,19 @@
-# Not default
+# NotDefault
 
 [![][build-img]][build]
 [![][nuget-img]][nuget]
 
-[build]:     https://ci.appveyor.com/project/TallesL/NotDefault
-[build-img]: https://ci.appveyor.com/api/projects/status/github/tallesl/NotDefault
+Extension method that returns if the given object value isn't [default(T)].
 
-[nuget]:     http://badge.fury.io/nu/NotDefault
-[nuget-img]: https://badge.fury.io/nu/NotDefault.png
 
-Extension method that returns if the given object value isn't [default(T)][default].
-
-[default]: https://msdn.microsoft.com/library/xwth0h0d.aspx
+[build]:      https://ci.appveyor.com/project/TallesL/net-notdefault
+[build-img]:  https://ci.appveyor.com/api/projects/status/github/tallesl/net-notdefault?svg=true
+[nuget]:      https://www.nuget.org/packages/NotDefault
+[nuget-img]:  https://badge.fury.io/nu/NotDefault.svg
+[default(T)]: https://msdn.microsoft.com/library/xwth0h0d.aspx
 
 ```cs
-using NotDefault;
+using NotDefaultLibrary;
 
 1337.NotDefault(); // True
 0.NotDefault();    // False
