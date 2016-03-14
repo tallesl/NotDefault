@@ -7,7 +7,7 @@
     <ProjectGuid>{B224FF94-BAF0-4E31-825D-B2B6387C9241}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NotDefault</RootNamespace>
+    <RootNamespace>NotDefaultLibrary</RootNamespace>
     <AssemblyName>NotDefault</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -1,4 +1,4 @@
-﻿namespace NotDefault
+﻿namespace NotDefaultLibrary
 {
     using System.Collections.Generic;
 

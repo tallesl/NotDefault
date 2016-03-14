@@ -1,7 +1,7 @@
-﻿namespace Tests
+﻿namespace NotDefaultLibrary.Tests
 {
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using NotDefault;
+    using NotDefaultLibrary;
 
     [TestClass]
     public class Tests
